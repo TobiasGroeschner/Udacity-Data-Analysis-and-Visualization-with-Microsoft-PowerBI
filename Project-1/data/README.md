@@ -1,6 +1,6 @@
 # File Description
 
-- `CFO Metrics Tracker.xlsx`
+`CFO Metrics Tracker.xlsx`
 
 | Column                 | ------- |
 | ---------------------- | ----    |
@@ -11,7 +11,7 @@
 | Cost Rank 		     |         |
 | Sales Rank 		     |         |
 
-- `Customer List (as of FY2021).txt`
+`Customer List (as of FY2021).txt`
 
 | Column                 | ------- |
 | ---------------------- | ----    |
@@ -22,7 +22,7 @@
 | State/Province 		 |         |
 | Country 		         |         |
 
-- `SSBC Product Offerings.pdf`
+`SSBC Product Offerings.pdf`
 
 | Column                 | ------- |
 | ---------------------- | ----    |
@@ -33,7 +33,7 @@
 | ABV            		 |         |
 | Description 		     |         |
 
-- `USD-CAD Exchange Rates.csv`
+`USD-CAD Exchange Rates.csv`
 
 | Column                 | ------- |
 | ---------------------- | ----    |
@@ -43,7 +43,7 @@
 
 /monthly sales/
 
--`SSBC - <month> <yyyy> Sales`: 
+`SSBC - <month> <yyyy> Sales`: 
 
 | Column                 | ------- |
 | ---------------------- | ------- |
