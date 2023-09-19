@@ -40,3 +40,15 @@
 | Date      		     |         |
 | USD                    |         |
 | CAD                    |         |
+
+/monthly sales/
+
+-`SSBC - <month> <yyyy> Sales`: 
+
+| Column                 | ------- |
+| ---------------------- | ------- |
+| CustID      		     |         |
+| ProdID                 |         |
+| Date                   |         |
+| Currency               |         |
+| Qty                    |         |
