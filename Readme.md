@@ -16,4 +16,5 @@ Each project contains a detailed README file documenting the project description
 
 ## Nanodegree Certificate
 
+![Certificate](Certificate.png)
 
